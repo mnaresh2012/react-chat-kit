@@ -1,5 +1,8 @@
-## React-Chat-Kit
+# React-Chat-Kit
 Chat Application with ReactJS
+
+### Chat Application -
+![alt text](chat-app.gif)
 
 ### Dependencies & DevDependencies -
 ```
@@ -16,9 +19,6 @@ npm install
 ```
 npm start
 ```
-
-### Screen-short Image -
-![alt text](chat-app.gif)
 
 ### Changelog -
 > 0.0.1: version
